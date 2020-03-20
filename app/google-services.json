@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229329421498",
+    "firebase_url": "https://makemynotes-aa758.firebaseio.com",
+    "project_id": "makemynotes-aa758",
+    "storage_bucket": "makemynotes-aa758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229329421498:android:2b2a3f523575c7d5",
+        "android_client_info": {
+          "package_name": "ravi_sharma.makemynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229329421498-8ueqs5vep0u008bafsfab92kb844m48t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ravi_sharma.makemynotes",
+            "certificate_hash": "7c4e59cab95ec69955831d9243625bfe2890a814"
+          }
+        },
+        {
+          "client_id": "229329421498-kqnpun8112jpsmqf61bu11vfodevlrme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xDFK0ny3QJ8v7niXz4y5lm42kB-m19M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229329421498-kqnpun8112jpsmqf61bu11vfodevlrme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
